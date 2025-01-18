@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/dell/Documents/INE2/DeepLearning/project/Mask_RCNN/mlruns/2
+creation_time: 1737230767311
+experiment_id: '2'
+last_update_time: 1737230767311
+lifecycle_stage: active
+name: kangaroo-detection-inference

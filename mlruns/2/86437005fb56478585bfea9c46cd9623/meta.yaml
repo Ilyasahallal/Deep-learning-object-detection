@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Documents/INE2/DeepLearning/project/Mask_RCNN/mlruns/2/86437005fb56478585bfea9c46cd9623/artifacts
+end_time: 1737230771913
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 86437005fb56478585bfea9c46cd9623
+run_name: wistful-flea-579
+run_uuid: 86437005fb56478585bfea9c46cd9623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737230767650
+status: 4
+tags: []
+user_id: dell

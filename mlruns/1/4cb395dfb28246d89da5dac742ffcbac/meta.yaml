@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Documents/INE2/DeepLearning/project/Mask_RCNN/mlruns/1/4cb395dfb28246d89da5dac742ffcbac/artifacts
+end_time: 1737230274303
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4cb395dfb28246d89da5dac742ffcbac
+run_name: welcoming-boar-783
+run_uuid: 4cb395dfb28246d89da5dac742ffcbac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737230269846
+status: 4
+tags: []
+user_id: dell

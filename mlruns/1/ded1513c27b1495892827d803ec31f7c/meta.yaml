@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Documents/INE2/DeepLearning/project/Mask_RCNN/mlruns/1/ded1513c27b1495892827d803ec31f7c/artifacts
+end_time: 1737230380930
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ded1513c27b1495892827d803ec31f7c
+run_name: suave-steed-256
+run_uuid: ded1513c27b1495892827d803ec31f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737230314628
+status: 4
+tags: []
+user_id: dell

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Documents/INE2/DeepLearning/project/Mask_RCNN/mlruns/2/3cdd5ad112c343638c7205a46f91e8d7/artifacts
+end_time: 1737231980368
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3cdd5ad112c343638c7205a46f91e8d7
+run_name: serious-roo-911
+run_uuid: 3cdd5ad112c343638c7205a46f91e8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737231853384
+status: 3
+tags: []
+user_id: dell

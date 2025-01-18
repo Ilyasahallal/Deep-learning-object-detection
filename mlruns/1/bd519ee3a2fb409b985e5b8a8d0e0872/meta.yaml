@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Documents/INE2/DeepLearning/project/Mask_RCNN/mlruns/1/bd519ee3a2fb409b985e5b8a8d0e0872/artifacts
+end_time: 1737229554565
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd519ee3a2fb409b985e5b8a8d0e0872
+run_name: languid-kite-973
+run_uuid: bd519ee3a2fb409b985e5b8a8d0e0872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737217845725
+status: 4
+tags: []
+user_id: dell

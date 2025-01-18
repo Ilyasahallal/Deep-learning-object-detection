@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Documents/INE2/DeepLearning/project/Mask_RCNN/mlruns/2/fa584b859c8b4ed9bf991c55f2673ffe/artifacts
+end_time: 1737231676078
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fa584b859c8b4ed9bf991c55f2673ffe
+run_name: rare-auk-123
+run_uuid: fa584b859c8b4ed9bf991c55f2673ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737231568342
+status: 3
+tags: []
+user_id: dell
